@@ -9,10 +9,11 @@
 
 <h3 align="left">Meus Perfis:</h3>
 <p align="left">
+<a href="https://www.youtube.com/c/@profmarlonferrari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@profmarlonferrari" height="100" width="80" /></a>  
 <a href="https://linkedin.com/in/marlonferrari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marlonferrari" height="30" width="40" /></a>
 <a href="https://kaggle.com/marlonferrari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="marlonferrari" height="30" width="40" /></a>
 <a href="https://medium.com/@marlon.ferrari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@marlon.ferrari" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@profmarlonferrari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@profmarlonferrari" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Ferramentas e Linguagens:</h3>
