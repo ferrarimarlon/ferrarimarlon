@@ -1,11 +1,12 @@
 <h1 align="center">Salve! 👋 Sou Marlon Ferrari</h1>
 <h3 align="center">Data & Analytics / Professor de Ensino Superior</h3>
+<img align="right" src="me.png">
 
 - 💻 Trabalho como Engenheiro de Analytics no [Itaú](https://github.com/itau)
 
 - 📚 Leciono como Professor de Ensino Superior na [Faculdade do Centro Leste](ucl.br)
 
-- 📝 Escrevo às vezes em [https://medium.com/@marlon.ferrari](https://medium.com/@marlon.ferrari)
+- 📝 Currículo Lattes em [https://lattes.cnpq.br/2437396922063914](https://lattes.cnpq.br/2437396922063914)
 
 <h3 align="left">Meus Perfis:</h3>
 <p align="left">
