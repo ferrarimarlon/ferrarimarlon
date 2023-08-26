@@ -4,7 +4,7 @@
 
 - 💻 Trabalho como Engenheiro de Analytics no [Itaú](https://github.com/itau)
 
-- 📚 Leciono como Professor de Ensino Superior na [Faculdade do Centro Leste](ucl.br)
+- 📚 Leciono como Professor de Ensino Superior na [Faculdade do Centro Leste](https://ucl.br)
 
 - 📝 Currículo Lattes em [https://lattes.cnpq.br/2437396922063914](https://lattes.cnpq.br/2437396922063914)
 
