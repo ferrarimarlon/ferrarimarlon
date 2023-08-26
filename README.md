@@ -1,8 +1,8 @@
 <h1 align="center">Salve! 👋 Sou Marlon Ferrari</h1>
-<h3 align="center">Data & Analytics / Professor de Ensino Superior</h3>
+<h3 align="center">Engenharia de Big Data & Analytics / Professor de Ensino Superior</h3>
 <img align="right" src="me.png">
 
-- 💻 Trabalho como Engenheiro de Analytics no [Itaú](https://github.com/itau)
+- 💻 Trabalho como Engenheiro de Big Data & Analytics no [Itaú](https://github.com/itau)
 
 - 📚 Leciono como Professor de Ensino Superior na [Faculdade do Centro Leste](https://www.ucl.br/curriculo-de-curso-da-ucl-e-destaque-internacional-2/)
 
