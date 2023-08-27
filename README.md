@@ -45,4 +45,13 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> </a> </p>
+  
+#
 
+<h3 align="left">Meus Vídeos:</h3>
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Python Sudeste 2019](https://ytcards.demolab.com/?id=hNxEl7KKSMk)](https://www.youtube.com/watch?v=hNxEl7KKSMk)
+[![LLM do Zero com BERT](https://ytcards.demolab.com/?id=LphBQB1amrw)](https://www.youtube.com/watch?v=LphBQB1amrw)
+[![GenIA e Eng de Dados](https://ytcards.demolab.com/?id=-GHKhVgtwsA)](https://www.youtube.com/watch?v=-GHKhVgtwsA)
+<!-- END YOUTUBE-CARDS -->
