@@ -51,7 +51,10 @@
 <h3 align="left">Meus Vídeos:</h3>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![PitStop IA 2023](https://ytcards.demolab.com/?id=KA-xiCHUMnY)](https://www.youtube.com/watch?v=KA-xiCHUMnY)
 [![Python Sudeste 2019](https://ytcards.demolab.com/?id=hNxEl7KKSMk)](https://www.youtube.com/watch?v=hNxEl7KKSMk)
 [![LLM do Zero com BERT](https://ytcards.demolab.com/?id=LphBQB1amrw)](https://www.youtube.com/watch?v=LphBQB1amrw)
 [![GenIA e Eng de Dados](https://ytcards.demolab.com/?id=-GHKhVgtwsA)](https://www.youtube.com/watch?v=-GHKhVgtwsA)
+[![GenIA e Eng de Dados](https://ytcards.demolab.com/?id=Vkh2ay8hbbo)](https://www.youtube.com/watch?v=Vkh2ay8hbbo)
+[![GenIA e Eng de Dados](https://ytcards.demolab.com/?id=e6hEyb7Pcig)](https://www.youtube.com/watch?v=e6hEyb7Pcig)
 <!-- END YOUTUBE-CARDS -->
