@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://www.youtube.com/@profmarlonferrari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@profmarlonferrari" height="40" width="20" /></a>  
 <a href="https://linkedin.com/in/marlonferrari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marlonferrari" height="40" width="20" /></a>
-<a href="https://kaggle.com/marlonferrari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="marlonferrari" height="40" width="20" /></a>
+<a href="https://kaggle.com/marlonferrari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="marlonferrari" height="30" width="20" /></a>
 <a href="https://medium.com/@marlon.ferrari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@marlon.ferrari" height="40" width="20" /></a>
 
 </p>
