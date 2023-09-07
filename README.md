@@ -26,7 +26,7 @@
 
 #
 
-### 😃 Meus Perfis
+### Meus Perfis
 <p align="left">
 <a href="https://www.youtube.com/@profmarlonferrari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@profmarlonferrari" height="40" width="20" /></a>  
 <a href="https://linkedin.com/in/marlonferrari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marlonferrari" height="40" width="20" /></a>
