@@ -37,10 +37,10 @@
 
 <h3 align="left">Ferramentas e Linguagens:</h3>
 <p align="left"> 
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" alt="spark" width="100" height="60"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> 
-  <a href="https://aws.amazon.com/pt/glue/" target="_blank" rel="noreferrer">  <img src="https://symbols.getvecta.com/stencil_9/43_aws-glue.ef66031230.svg" alt="glue" width="80" height="80"/> </a> 
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="80" height="80"/> </a> 
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" alt="spark" width="50" height="30"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://aws.amazon.com/pt/glue/" target="_blank" rel="noreferrer">  <img src="https://symbols.getvecta.com/stencil_9/43_aws-glue.ef66031230.svg" alt="glue" width="40" height="40"/> </a> 
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> 
   <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="60" height="60"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/> </a> 
