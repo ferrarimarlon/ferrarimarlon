@@ -9,8 +9,8 @@
 
 ### 🖊️ Meus Certificados
 
-<a href="https://www.credly.com/earner/earned/badge/dee292c3-0d20-49b4-b9cb-4fc46052a346"><img src="https://images.credly.com/size/340x340/images/0a8e2321-c9a1-45b4-a61d-cae2636e9ea3/Adv_Data_Science_Specialization_-_Coursera.png" align="left" width="60px">
-<a href="https://www.credly.com/earner/earned/badge/d4ba4058-0888-4dc5-9a86-b88dadc72751"><img src="https://images.credly.com/size/340x340/images/a8a0c0e1-8682-4f1e-9758-7453882f84cf/image.png" align="left" width="60px">
+<a href="https://www.credly.com/earner/earned/badge/dee292c3-0d20-49b4-b9cb-4fc46052a346/public_url"><img src="https://images.credly.com/size/340x340/images/0a8e2321-c9a1-45b4-a61d-cae2636e9ea3/Adv_Data_Science_Specialization_-_Coursera.png" align="left" width="100px">
+<a href="https://www.credly.com/earner/earned/badge/d4ba4058-0888-4dc5-9a86-b88dadc72751/public_url"><img src="https://images.credly.com/size/340x340/images/a8a0c0e1-8682-4f1e-9758-7453882f84cf/image.png" align="left" width="100px">
 <a href="http://badges.com.br/share/b14da37bd137e29b69086974873372ed.php?a=5219"><img src="https://brasilopenbadge.com.br/badge/5219.png?nocache=425019052" align="left" width="60px">
 
 <a href="https://brasilopenbadge.com.br/pages/badge/29d90995cfc8d592d405e5cdd4def289"><img src="https://brasilopenbadge.com.br/badge/3712.png?nocache=425604272" align="left" width="60px">
