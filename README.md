@@ -7,14 +7,25 @@
 
 - 📝 Currículo Lattes em [https://lattes.cnpq.br/2437396922063914](https://lattes.cnpq.br/2437396922063914)
 
+#
+
 ### 🖊️ Meus Certificados
 
-<a href="http://badges.com.br/share/b14da37bd137e29b69086974873372ed.php?a=5219"><img src="certs.png" align="left" width="500">
+<a href="http://badges.com.br/share/b14da37bd137e29b69086974873372ed.php?a=5219"><img src="certs.png" align="left" width="1200">
 
 <br>
 <br>
 <br>
 <br>
+
+<br>
+<br>
+<br>
+<br>
+
+##
+
+#
 
 #
 
