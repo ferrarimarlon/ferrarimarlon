@@ -18,15 +18,6 @@
 <br>
 <br>
 
-<br>
-<br>
-<br>
-<br>
-
-##
-
-#
-
 #
 
 ### Meus Perfis
