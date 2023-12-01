@@ -11,7 +11,7 @@
 
 ### 🖊️ Meus Certificados
 
-<a href="http://badges.com.br/share/b14da37bd137e29b69086974873372ed.php?a=5219"><img src="certs_up.png" align="left" width="1200">
+<a href="http://badges.com.br/share/b14da37bd137e29b69086974873372ed.php?a=5219"><img src="certs_up_bk.png" align="left" width="900">
 
 <br>
 <br>
