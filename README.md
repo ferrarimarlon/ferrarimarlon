@@ -11,7 +11,7 @@
 
 ### 🖊️ Meus Certificados
 
-<a href="http://badges.com.br/share/b14da37bd137e29b69086974873372ed.php?a=5219"><img src="certs_up_bk.png" align="left" width="500">
+<a href="https://brasilopenbadge.com.br/pages/profile/marlon-ferrari"><img src="certs_up_bk.png" align="left" width="500">
 
 <br>
 <br>
