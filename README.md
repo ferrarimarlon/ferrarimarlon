@@ -3,7 +3,7 @@
 
 - 💻 Engenheiro de Analytics at [Nubank](https://nubank.com.br/)
 
-- 📚 Professor de Ensino Superior at [Faculdade do Centro Leste](https://www.ucl.br/curriculo-de-curso-da-ucl-e-destaque-internacional-2/)
+- 📚 Professor de Ensino Superior at [Faculdade do Centro Leste](https://www.ucl.br/)
 
 - 📝 Currículo Lattes at [https://lattes.cnpq.br/2437396922063914](https://lattes.cnpq.br/2437396922063914)
 
