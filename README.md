@@ -9,17 +9,6 @@
 
 #
 
-### 🖊️ Meus Certificados
-
-<a href="https://brasilopenbadge.com.br/pages/profile/marlon-ferrari"><img src="certs_up_bk.png" align="left" width="500">
-
-<br>
-<br>
-<br>
-<br>
-
-#
-
 ### Meus Perfis
 <p align="left">
 <a href="https://www.youtube.com/@profmarlonferrari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@profmarlonferrari" height="40" width="20" /></a>  
