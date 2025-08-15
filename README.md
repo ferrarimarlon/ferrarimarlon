@@ -1,11 +1,11 @@
 <h1 align="center">Salve! 👋 Sou Marlon Ferrari</h1>
 <h3 align="center">Engenharia de Big Data & Analytics / Professor de Ensino Superior</h3>
 
-- 💻 Trabalho como Engenheiro de Analytics no [Nubank](https://nubank.com.br/)
+- 💻 Engenheiro de Analytics at [Nubank](https://nubank.com.br/)
 
-- 📚 Leciono como Professor de Ensino Superior na [Faculdade do Centro Leste](https://www.ucl.br/curriculo-de-curso-da-ucl-e-destaque-internacional-2/)
+- 📚 Professor de Ensino Superior at [Faculdade do Centro Leste](https://www.ucl.br/curriculo-de-curso-da-ucl-e-destaque-internacional-2/)
 
-- 📝 Currículo Lattes em [https://lattes.cnpq.br/2437396922063914](https://lattes.cnpq.br/2437396922063914)
+- 📝 Currículo Lattes at [https://lattes.cnpq.br/2437396922063914](https://lattes.cnpq.br/2437396922063914)
 
 #
 
