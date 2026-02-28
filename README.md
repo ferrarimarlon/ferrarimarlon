@@ -49,15 +49,70 @@ https://lattes.cnpq.br/2437396922063914
 
 ---
 
-## Conteúdo em Destaque no YouTube
+<h2 align="left">Meus vídeos</h2>
 
-| LLM do Zero com BERT (35k+ views) | Transformers na Prática | Q&A com BERT |
-|---|---|---|
-| [![LLM do Zero](https://img.youtube.com/vi/LphBQB1amrw/mqdefault.jpg)](https://www.youtube.com/watch?v=LphBQB1amrw) | [![Transformers](https://img.youtube.com/vi/7IEOVgxS1cc/mqdefault.jpg)](https://www.youtube.com/watch?v=7IEOVgxS1cc) | [![Q&A BERT](https://img.youtube.com/vi/0xqh9Wfi4hw/mqdefault.jpg)](https://www.youtube.com/watch?v=0xqh9Wfi4hw) |
-
-| Arquitetura de LLMs | GenAI e Engenharia de Dados | Spark do Zero |
-|---|---|---|
-| [![Arquitetura LLM](https://img.youtube.com/vi/S14zEs-cX_o/mqdefault.jpg)](https://www.youtube.com/watch?v=S14zEs-cX_o) | [![GenAI Dados](https://img.youtube.com/vi/-GHKhVgtwsA/mqdefault.jpg)](https://www.youtube.com/watch?v=-GHKhVgtwsA) | [![Spark do Zero](https://img.youtube.com/vi/TxfIUN59lEM/mqdefault.jpg)](https://www.youtube.com/watch?v=TxfIUN59lEM) |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="320">
+        <a href="https://www.youtube.com/watch?v=LphBQB1amrw">
+          <img src="https://img.youtube.com/vi/LphBQB1amrw/maxresdefault.jpg" width="320" alt="LLM do Zero com BERT" />
+        </a>
+        <br />
+        <sub><b>LLM do Zero com BERT</b></sub>
+        <br />
+        <sub>38k+ views</sub>
+      </td>
+      <td align="center" width="320">
+        <a href="https://www.youtube.com/watch?v=7IEOVgxS1cc">
+          <img src="https://img.youtube.com/vi/7IEOVgxS1cc/maxresdefault.jpg" width="320" alt="Vídeo 2" />
+        </a>
+        <br />
+        <sub><b>Vídeo 2</b></sub>
+        <br />
+        <sub>10k+ views</sub>
+      </td>
+      <td align="center" width="320">
+        <a href="https://www.youtube.com/watch?v=0xqh9Wfi4hw">
+          <img src="https://img.youtube.com/vi/0xqh9Wfi4hw/maxresdefault.jpg" width="320" alt="Vídeo 3" />
+        </a>
+        <br />
+        <sub><b>Vídeo 3</b></sub>
+        <br />
+        <sub>4k+ views</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="320">
+        <a href="https://www.youtube.com/watch?v=S14zEs-cX_o">
+          <img src="https://img.youtube.com/vi/S14zEs-cX_o/maxresdefault.jpg" width="320" alt="Vídeo 4" />
+        </a>
+        <br />
+        <sub><b>Vídeo 4</b></sub>
+        <br />
+        <sub>2k+ views</sub>
+      </td>
+      <td align="center" width="320">
+        <a href="https://www.youtube.com/watch?v=3sYeZ9aD9GU">
+          <img src="https://img.youtube.com/vi/3sYeZ9aD9GU/maxresdefault.jpg" width="320" alt="Vídeo 5" />
+        </a>
+        <br />
+        <sub><b>Vídeo 5</b></sub>
+        <br />
+        <sub>3.5k+ views</sub>
+      </td>
+      <td align="center" width="320">
+        <a href="https://www.youtube.com/watch?v=TxfIUN59lEM">
+          <img src="https://img.youtube.com/vi/TxfIUN59lEM/maxresdefault.jpg" width="320" alt="Vídeo 6" />
+        </a>
+        <br />
+        <sub><b>Vídeo 6</b></sub>
+        <br />
+        <sub>2.8k+ views</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
