@@ -32,7 +32,7 @@ Foco em:
 Currículo Lattes:  
 https://lattes.cnpq.br/2437396922063914
 
----
+---   
 
 ## Stack Principal
 
