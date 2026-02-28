@@ -37,7 +37,7 @@ https://lattes.cnpq.br/2437396922063914
 ## Stack Principal
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Python-Advanced-yellow?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/Apache_Spark-Advanced-orange?style=for-the-badge&logo=apachespark"/>
 <img src="https://img.shields.io/badge/AWS-Data_Engineering-232F3E?style=for-the-badge&logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS_Glue-ETL-FF9900?style=for-the-badge&logo=amazonaws"/>
