@@ -51,45 +51,13 @@ https://lattes.cnpq.br/2437396922063914
 
 ## Conteúdo em Destaque no YouTube
 
-### 1. LLM do Zero com BERT — 35k+ visualizações
-Construção de um modelo de linguagem do zero, explicando arquitetura e treinamento na prática.
+| LLM do Zero com BERT (35k+ views) | Transformers na Prática | Q&A com BERT |
+|---|---|---|
+| [![LLM do Zero](https://img.youtube.com/vi/LphBQB1amrw/mqdefault.jpg)](https://www.youtube.com/watch?v=LphBQB1amrw) | [![Transformers](https://img.youtube.com/vi/7IEOVgxS1cc/mqdefault.jpg)](https://www.youtube.com/watch?v=7IEOVgxS1cc) | [![Q&A BERT](https://img.youtube.com/vi/0xqh9Wfi4hw/mqdefault.jpg)](https://www.youtube.com/watch?v=0xqh9Wfi4hw) |
 
-[![LLM do Zero](https://img.youtube.com/vi/LphBQB1amrw/maxresdefault.jpg)](https://www.youtube.com/watch?v=LphBQB1amrw)
-
----
-
-### 2. Transformers na Prática
-Explicação aplicada da arquitetura Transformers e seus componentes principais.
-
-[![Transformers](https://img.youtube.com/vi/7IEOVgxS1cc/maxresdefault.jpg)](https://www.youtube.com/watch?v=7IEOVgxS1cc)
-
----
-
-### 3. Q&A com BERT
-Implementação de um sistema de perguntas e respostas usando BERT.
-
-[![Q&A BERT](https://img.youtube.com/vi/0xqh9Wfi4hw/maxresdefault.jpg)](https://www.youtube.com/watch?v=0xqh9Wfi4hw)
-
----
-
-### 4. Arquitetura de Modelos de Linguagem
-Visão conceitual sobre funcionamento e estrutura de modelos modernos.
-
-[![Arquitetura LLM](https://img.youtube.com/vi/S14zEs-cX_o/maxresdefault.jpg)](https://www.youtube.com/watch?v=S14zEs-cX_o)
-
----
-
-### 5. GenAI e Engenharia de Dados
-Como LLMs mudam o papel da engenharia de dados e da arquitetura.
-
-[![GenAI e Dados](https://img.youtube.com/vi/-GHKhVgtwsA/maxresdefault.jpg)](https://www.youtube.com/watch?v=-GHKhVgtwsA)
-
----
-
-### 6. Spark do Zero
-Fundamentos de processamento distribuído e conceitos essenciais de Spark.
-
-[![Spark do Zero](https://img.youtube.com/vi/TxfIUN59lEM/maxresdefault.jpg)](https://www.youtube.com/watch?v=TxfIUN59lEM)
+| Arquitetura de LLMs | GenAI e Engenharia de Dados | Spark do Zero |
+|---|---|---|
+| [![Arquitetura LLM](https://img.youtube.com/vi/S14zEs-cX_o/mqdefault.jpg)](https://www.youtube.com/watch?v=S14zEs-cX_o) | [![GenAI Dados](https://img.youtube.com/vi/-GHKhVgtwsA/mqdefault.jpg)](https://www.youtube.com/watch?v=-GHKhVgtwsA) | [![Spark do Zero](https://img.youtube.com/vi/TxfIUN59lEM/mqdefault.jpg)](https://www.youtube.com/watch?v=TxfIUN59lEM) |
 
 ---
 
