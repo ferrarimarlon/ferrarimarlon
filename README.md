@@ -1,42 +1,95 @@
-<h3 align="center">Engenharia de Analytics / Professor de Ensino Superior</h3>
+<h1 align="center">Marlon Ferrari</h1>
+<h3 align="center">Analytics Engineer @ Nubank | Professor Universitário | Dados, IA e Arquitetura de Analytics</h3>
 
-- 💻 Engenheiro de Analytics at [Nubank](https://nubank.com.br/)
-
-- 📚 Professor de Ensino Superior at [Faculdade do Centro Leste](https://www.ucl.br/)
-
-- 📝 Currículo Lattes at [https://lattes.cnpq.br/2437396922063914](https://lattes.cnpq.br/2437396922063914)
-
-#
-
-### Meus Perfis
-<p align="left">
-<a href="https://www.youtube.com/@profmarlonferrari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@profmarlonferrari" height="40" width="20" /></a>  
-<a href="https://linkedin.com/in/marlonferrari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marlonferrari" height="40" width="20" /></a>
-<a href="https://kaggle.com/marlonferrari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="marlonferrari" height="30" width="20" /></a>
-<a href="https://medium.com/@marlon.ferrari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@marlon.ferrari" height="40" width="20" /></a>
-
+<p align="center">
+<a href="https://www.youtube.com/@profmarlonferrari">
+<img src="https://img.shields.io/badge/YouTube-Canal-red?style=for-the-badge&logo=youtube"/>
+</a>
+<a href="https://linkedin.com/in/marlonferrari">
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://kaggle.com/marlonferrari">
+<img src="https://img.shields.io/badge/Kaggle-Perfil-20BEFF?style=for-the-badge&logo=kaggle"/>
+</a>
+<a href="https://medium.com/@marlon.ferrari">
+<img src="https://img.shields.io/badge/Medium-Artigos-black?style=for-the-badge&logo=medium"/>
+</a>
 </p>
 
-<h3 align="left">Ferramentas e Linguagens:</h3>
-<p align="left"> 
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" alt="spark" width="50" height="30"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a> 
-  <a href="https://aws.amazon.com/pt/glue/" target="_blank" rel="noreferrer">  <img src="https://symbols.getvecta.com/stencil_9/43_aws-glue.ef66031230.svg" alt="glue" width="25" height="25"/> </a> 
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="25" height="25"/> </a> 
-  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="25" height="25"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="25" height="25"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="25" height="25"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="25" height="25"/> </a> </p>
-  
-#
+---
 
-<h3 align="left">Meus Vídeos:</h3>
+## Sobre
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![PitStop IA 2023](https://ytcards.demolab.com/?id=KA-xiCHUMnY)](https://www.youtube.com/watch?v=KA-xiCHUMnY)
-[![Python Sudeste 2019](https://ytcards.demolab.com/?id=hNxEl7KKSMk)](https://www.youtube.com/watch?v=hNxEl7KKSMk)
-[![LLM do Zero com BERT](https://ytcards.demolab.com/?id=LphBQB1amrw)](https://www.youtube.com/watch?v=LphBQB1amrw)
-[![GenIA e Eng de Dados](https://ytcards.demolab.com/?id=-GHKhVgtwsA)](https://www.youtube.com/watch?v=-GHKhVgtwsA)
-[![GenIA e Eng de Dados](https://ytcards.demolab.com/?id=Vkh2ay8hbbo)](https://www.youtube.com/watch?v=Vkh2ay8hbbo)
-[![GenIA e Eng de Dados](https://ytcards.demolab.com/?id=e6hEyb7Pcig)](https://www.youtube.com/watch?v=e6hEyb7Pcig)
-<!-- END YOUTUBE-CARDS -->
+Engenheiro de Analytics no **Nubank** e professor de ensino superior, com atuação em arquitetura de dados, sistemas distribuídos e aplicação de IA em ambientes de produção.
+
+Foco em:
+- Analytics Engineering e Data Architecture
+- Processamento distribuído com Spark
+- Engenharia de dados em larga escala
+- IA aplicada a dados e sistemas orientados a conhecimento
+- Formação prática de profissionais de dados
+
+Currículo Lattes:  
+https://lattes.cnpq.br/2437396922063914
+
+---
+
+## Stack Principal
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Apache_Spark-Advanced-orange?style=for-the-badge&logo=apachespark"/>
+<img src="https://img.shields.io/badge/AWS-Data_Engineering-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS_Glue-ETL-FF9900?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Hadoop-Ecosystem-66CCFF?style=for-the-badge&logo=apachehadoop"/>
+<img src="https://img.shields.io/badge/Hive-SQL-FFC300?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/scikit--learn-ML-FF6F00?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/TensorFlow-Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow"/>
+</p>
+
+---
+
+## Conteúdo em Destaque no YouTube
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=LphBQB1amrw">
+<img src="https://img.youtube.com/vi/LphBQB1amrw/maxresdefault.jpg" width="80%" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=7IEOVgxS1cc">
+<img src="https://img.youtube.com/vi/7IEOVgxS1cc/maxresdefault.jpg" width="30%" />
+</a>
+<a href="https://www.youtube.com/watch?v=0xqh9Wfi4hw">
+<img src="https://img.youtube.com/vi/0xqh9Wfi4hw/maxresdefault.jpg" width="30%" />
+</a>
+<a href="https://www.youtube.com/watch?v=S14zEs-cX_o">
+<img src="https://img.youtube.com/vi/S14zEs-cX_o/maxresdefault.jpg" width="30%" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=-GHKhVgtwsA">
+<img src="https://img.youtube.com/vi/-GHKhVgtwsA/maxresdefault.jpg" width="30%" />
+</a>
+<a href="https://www.youtube.com/watch?v=TxfIUN59lEM">
+<img src="https://img.youtube.com/vi/TxfIUN59lEM/maxresdefault.jpg" width="30%" />
+</a>
+</p>
+
+---
+
+## O que você vai encontrar aqui
+
+- Projetos de engenharia de dados e analytics
+- Experimentos com IA e LLMs
+- Simulações de arquitetura
+- Materiais didáticos e conteúdos de aula
+- Estudos sobre arquitetura moderna de dados
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=marlonferrari&style=for-the-badge"/>
+</p>
