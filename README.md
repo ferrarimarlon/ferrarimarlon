@@ -1,4 +1,3 @@
-<h1 align="center">Salve! 👋 Sou Marlon Ferrari</h1>
 <h3 align="center">Engenharia de Analytics / Professor de Ensino Superior</h3>
 
 - 💻 Engenheiro de Analytics at [Nubank](https://nubank.com.br/)
